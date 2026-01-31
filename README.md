@@ -1,10 +1,11 @@
+<img align="center" src=“ESCRIBIR “EL LINK/>
 ## Hi there 👋
 oy QA Engineer con experiencia en pruebas manuales y automatizadas, enfocado en garantizar la calidad del software a través de metodologías ágiles. Me especializo en pruebas de API, pruebas UI y debugging, aplicando herramientas modernas y buenas prácticas en cada proyecto.
 
 🚀 Sobre mí
-🎓 Formación en Contabilidad y Computación e Informática.
+🎓 Formación en Comunicacion Social y Computación e Informática.
 📚 Actualmente he concluido satisfactoriamente el bootcamp en Quality Assurance Engineering de Tripleten LaTam.
-💡 Estoy en transición del mundo de la contabilidad al sector TI, impulsado por mi interés en la tecnología y la mejora de procesos a través del software.
+💡 Estoy enamorado al sector QA, impulsado por mi interés en la tecnología y la mejora de procesos a través del software.
 🧩 Desarrollando habilidades en automatización de pruebas, pruebas API y pruebas en bases de datos.
 🌐 Socials:
 LinkedIn
